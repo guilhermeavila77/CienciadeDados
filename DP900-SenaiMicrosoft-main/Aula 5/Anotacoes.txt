@@ -1,0 +1,12 @@
+Revisao:
+	Dados, Nao estruturados - EX: Excel
+	Dados, Semi Estruturados - EX: Json
+	Dados, Estruturados - EX: CSV, SQL
+
+SGBD: - Sistemas Gerenciador de banco de dados 
+
+	Nao relacionais - Tabulares e Xave - Valor
+	Relaionais - Indices
+
+Json, Cosmos DB
+Tabelas, colunares, conta de armazenamento

@@ -1,0 +1,12 @@
+ELTou ETL 
+	Extrair 	Carregar 	Transformar 
+	APP		Base de dados	BI
+
+Os dois primeiros e a origem, e o ultimo e o mostrar
+
+Extrair e carregar na origem seria Como usar o Power BI 
+Extrair e transformar naa origem seria o analitic do google
+
+IAAS e o Hardware ou VM (Instala)
+PAAS banco de dados que se utiliza na nuvem 
+SAAS app para o usuario final

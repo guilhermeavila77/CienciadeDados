@@ -1,0 +1,65 @@
+Nuvem
+	IAAS - VM - VPC
+	PAAS - DBA -DEV
+	SAAS - APP
+
+PIPELINE(UBER)
+	BI-BD-SQL-JSON-Dervico
+
+DDL - Definicao - Hora da cricao do banco de dados
+DCL - Controle - Controle de acesso 
+DML - Manipulacao - Colocar e tirar os dados 
+
+Banco de dados graficos - Banco relacional SQL ou nao - Relacionamento de tabelas
+
+Questoes erradas - 
+
+Qual ferramenta de linha de comando você pode usar para consultar bancos de dados SQL do Azure?
+
+sqlcmd
+
+
+Escolha a opção correta para completar a frase: Um banco de dados relacional é apropriado para cenários que envolvem um alto volume de ___________________
+gravações transacionais
+
+Escolha a opção correta para completar a frase: ___________________ suportam nativamente a análise de relacionamentos entre entidades.
+Bancos de dados de gráficos
+
+ 
+Quando você cria um banco de dados SQL do Azure, qual conta sempre pode se conectar ao banco de dados?
+a conta de login do administrador do servidor lógico
+
+Você tem uma consulta SQL que combina dados do cliente e dados do pedido. A consulta inclui colunas calculadas. Você precisa criar um objeto de banco de dados que permita que outros usuários executem novamente a mesma consulta SQL. O que você deve criar?
+uma view
+
+A afirmação a seguir é verdadeira ou falso? A normalização de um banco de dados reduz a redundância de dados.
+Verdadeiro
+
+Quais são os dois benefícios das ofertas de banco de dados relacional de plataforma como serviço (PaaS) no Azure, como o Banco de Dados SQL do Azure?
+esforço administrativo reduzido para gerenciar a infraestrutura do servidor
+acesso aos recursos mais recentes
+
+
+Escolha a opção correta para completar a frase: Por padrão, cada banco de dados SQL do Azure é protegido por ___________________
+um firewall em nível de servidor.
+
+
+Escolha a opção correta para completar a frase: Um banco de dados relacional deve ser usado quando ___________________
+são necessárias fortes garantias de consistência.
+
+Você está escrevendo um conjunto de consultas SQL que os administradores usarão para solucionar problemas de um banco de dados SQL do Azure. Você precisa incorporar documentos e resultados de consultas em um bloco de anotações SQL.
+Azure Data Studio
+
+
+ 
+Você tem um banco de dados SQL do Azure que você acessa diretamente da Internet. Você alterou recentemente seu endereço IP externo. Após alterar o endereço IP, você não poderá mais acessar o banco de dados. Você pode se conectar a outros recursos no Azure. Qual é uma possível causa do problema?
+um firewall em nível de banco de dados
+
+
+Você precisa consultar uma tabela chamada Produtos em um banco de dados SQL do Azure. Quais são os três requisitos que devem ser atendidos para consultar a tabela na internet?
+Seu endereço IP deve ter permissão para se conectar ao banco de dados.
+Você deve ter um usuário no banco de dados.
+Você deve ter acesso SELECT à tabela Produtos.
+
+Você precisa modificar uma exibição em um banco de dados relacional adicionando uma nova coluna. Qual declaração você deve usar?
+ALTER
